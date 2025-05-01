@@ -9,6 +9,7 @@
         background: #97e0a4;
         display: flex;
         align-content: center;
+        alight-content: top;
         justify-content: center;
         padding: 20px 0;
 }
